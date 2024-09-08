@@ -1,0 +1,89 @@
+{
+  // Main screen, title and buttons
+  "mainscreen_welcome": "ברוך הבא!",
+  "mainscreen_button_map": "מפה",
+  "mainscreen_button_game": "משחק",
+
+  // Settings
+  "settings_title": "הגדרות",
+  "settings_change_lang": "שנה שפה",
+  "settings_change_vol": "שנה עוצמת שמע",
+
+  // Menu
+  "menu_home": "בית",
+  "menu_map": "מפה",
+  "menu_settings": "הגדרות",
+  "menu_share": "שתף",
+
+  // General navigation
+  "next": "הבא",
+  "back": "חזור",
+  "return": "חזור",
+  "end": "סיום",
+  "continue": "המשך",
+  "start": "התחל",
+  "restart": "התחל מחדש",
+  "failure": "אופס. משהו קרה...\nנסה שוב מאוחר יותר",
+  "money": "כסף",
+
+  // Map
+  "floor0_map_header": "קומה 0",
+  "floor0_panel_header": "תערוכות",
+  "floor0_panel_body": "1 / חצר נגרות תחתונה \n2 / חדר ספרייה גדול \n3 / סדנת קרמיקה \n4 / סדנה\n-------------------\nמטבחון \nשירותים \nמשרדים",
+
+  "floor1_map_header": "קומה 1: אינטראקטיבית",
+  "floor1_panel_header": "תערוכות",
+  "floor1_panel_body": "1 / תערוכות פיראטים \n2 / עזור לי ! \n3 / מלחי צעירים \n4 / שיט עברי \n5 / מחלקת שימור",
+
+  "floor2_map_header": "קומה 2: כניסה",
+  "floor2_panel_header": "תערוכות",
+  "floor2_panel_body": "1 / נמל הבית \n2 / הים ומעבר לו \n3 / האדם והים שנכבש \n4 / אולם רב תכליתי \n5 / חנות \n6 / קופות\n-------------------\nשירותים",
+
+  "floor3_map_header": "קומה 3: גלי הזמן",
+  "floor3_panel_header": "תערוכות",
+  "floor3_panel_body": "<b>הים שלנו \n\nחדש - חווית מציאות רבודה בתערוכה 5 \n</b> \n1 / זמן בבקבוק \n2 / תל הדגים \n4 / הצייד הקדום \n5 / שיט קדום \n6 / סחר בעולם העתיק \n7 / אלים, אלות וגיבורים בפסלי יוון ורומא \n8 / עוגנים קדומים, מכשירים מדעיים ועוד",
+
+
+  // Game
+  // Stage 0 - detecting
+  "game_s0_title": "סרוק את הספינה",
+  "game_s0_help": "צריך עזרה? הצב את המצלמה מול הספינה. נסה לזוז מסביב",
+  "game_s0_success": "הספינה זוהתה",
+
+  "game_intro": "להשלים פה תרגום",
+
+  // Stage 1
+  "game_s1_title": "שלב 1",
+  "game_s1_intro": "עזור לפרוק את האמפורות על ידי גרירתן לנמל",
+  "game_s1_help": "הסבר מה לעשות",
+  "game_s1_success": "כן-כן! הצלחת!\nעכשיו יש לך X1 ו-X2", // X1 and X2 are params (wine, olive oil...)
+
+  // Stage 2
+  "game_s2_title": "שלב 2",
+  "game_s2_intro": "הסתובב וקנה סחורות מדוכנים שונים.\nהערה: לא כל הסחורות קבילות",
+  "game_s2_help": "רשימת הסחורות?",
+  "game_s2_success": "מעולה, עכשיו יש לך X1 $", // X1 = money
+
+  // Stage 3
+  "game_s3_title": "שלב 3",
+  "game_s3_intro": "מכור את הסחורות והרוויח כסף",
+  "game_s3_help": "גרור ושחרר את הסחורה מהנמל לספינה",
+  "game_s3_fail_commoditie1": "נחמד לראות אותך, אבל לא זוכר???\n אני לא קונה את זה.\nנסה משהו אחר...",
+  "game_s3_fail_commoditie2": "אוי לא. אני לא יכול לסחור בזה.\nנסה משהו אחר...",
+  "game_s3_good_commoditie1": "מעולה! אני אקנה קצת X1", // X1 = commodity
+  "game_s3_good_commoditie2": "X1 נשמע טוב. תן לי את זה!", // X1 = commodity
+  "game_s3_good_commoditie3": "X1 עבור X2 $? קצת גבוה, אבל אקח קצת", // X1 = commodity, X2 = the pricetag
+  "game_s3_success1": "זה הכל לעכשיו, תודה!",
+  "game_s3_success2": "מעולה, עכשיו יש לך X1 $", // X1 = money
+
+  // End game
+  "game_end": "סיימת את המשחק עם X1 $", // X1 = money
+
+  // Leaderboard
+  "leaderboard_title": "לוח תוצאות",
+  "leaderboard_player": "שחקן",
+  "leaderboard_score": "ניקוד",
+  "leaderboard_place": "מקום",
+
+  "": "" // empty in purpose
+}

@@ -1,0 +1,96 @@
+{
+  // Main screen, title and buttons
+  "mainscreen_welcome": "Welcome!",
+  "mainscreen_button_map": "Map",
+  "mainscreen_button_game": "Game",
+
+  // Menu
+  "menu_home": "Home",
+  "menu_map": "Map",
+  "menu_settings": "Settings",
+  "menu_share": "Share",
+
+  // Settings
+  "settings_title": "Settings",
+  "settings_change_lang": "Change language",
+  "settings_change_vol": "Change volume",
+
+  // General navigation
+  "next": "Next",
+  "back": "Back",
+  "return": "Return",
+  "end": "End",
+  "continue": "Continue",
+  "start": "Start",
+  "restart": "Restart",
+  "failure": "Oops. Something happen...\nPlease try again later",
+  "money": "Money",
+
+  // Map
+  "floor0_map_header": "Floor 0",
+  "floor0_panel_header": "Exhibits",
+  "floor0_panel_body": "1 / Lower Shipyard Courtyard \n2 / Library Room Large \n3 / Workshop Ceramics \n4 / Workshop\n-------------------\nKitchenette \nRestrooms \nOffices",
+
+  "floor1_map_header": "Floor 1: Interactive",
+  "floor1_panel_header": "Exhibits",
+  "floor1_panel_body": "1 / Pirate Exhibits \n2 / Help Me ! \n3 / Young Sailors \n4 / Hebrew Seafaring \n5 / Conservation Department",
+
+  "floor2_map_header": "Floor 2: Entrance",
+  "floor2_panel_header": "Exhibits",
+  "floor2_panel_body": "1 / Homeport \n2 / Sea and Beyond \n3 / Human and Captured Sea \n4 / Multipurpose Hall \n5 / Shop \n6 / Checkouts\n-------------------\nRestrooms",
+
+  "floor3_map_header": "Floor 3: Waves Of Time",
+  "floor3_panel_header": "Exhibits",
+  "floor3_panel_body": "<b>Our Sea \n\nNEW - Augmented Reality Experience at exhibit 5 \n</b> \n1 / Time in a Bottle \n2 / Tel Hadagim (Fish Hill) \n4 / The Ancient Harpoon \n5 / Ancient Seafaring \n6 / Trade in the Ancient World \n7 / Gods, Goddesses, and Heroes in Greco-Roman Sculpture \n8 / Ancient Anchors Scientific Instruments and More",
+
+  // Game
+  // Stage 0 - detecting
+  "stage_s0_askdetect": "Scan the ship",
+  "stage_s0_help": "Need help? Pslace the camera infront of the ship. Try move around",
+  "stage_0_detected": "Ship detected",
+
+  /// intro
+  "game_intro": "Welcome to the Kyrenia Ship experience. \nJourney back over 2,300 years to the late 4th century BC, and step aboard one of the oldest known Greek merchant ships ever discovered.",
+
+  /// Stage 1
+  "stage_1_title": "Stage 1",
+  "stage_1_intro": "Help to unload the amphoras by dragging them to port",
+  "stage_1_help": "Explain what to do",
+  "stage_1_end": "Ayy-Ayy! you did it!\nNow you have X1 and X2", // X1 and X2 are params (wine, olive oil...)
+
+  /// Stage 2
+  "stage_2_title": "Stage 2",
+  "stage_2_intro": "Move around and buy commodities from different stands.\nNote: Not all commodities are acceptable",
+  "stage_2_help": "Commodities list?",
+  "stage_2_sales_1": "I have X1, do you want to buy some?",
+  "stage_2_sales_2": "Hey! I just got X1 today. Very fresh!",
+  "stage_2_sales_3": "More msg",
+  "stage_2_sailor_success_1": "Great, so you now have X1 $",
+  "stage_2_sailor_success_2": "",
+  "stage_2_no_money": "Sorry you dont have enough money to buy it",
+  "stage_2_end": "Stage ended! lets move on the next one",
+
+  /// Stage 3
+  "stage_3_title": "Stage 3",
+  "stage_3_intro": "Sell the commodities and earn money",
+  "stage_3_help": "Drag-n-Drop the commoditie from the port to ship",
+  "stage_3_sell_bad_1": "Good to see ya, but don't you remember???\n I am NOT buying this.\nTry somthing else...",
+  "stage_3_sell_bad_2": "Oh no. I can't trade it.\nTry somthing else...",
+  "stage_3_sell_good_1": "Great! I will buy some X1", // X1 = commoditie
+  "stage_3_sell_good_2": "X1 sounds nice. Give me this!", // X1 = commoditie
+  "stage_3_sell_good_3": "X1 for X2 $? Little high, but I'll take some", // X1 = commoditie, X2 = the pricetag
+  "stage_3_suggest": "Before you end, I see you have some more commodities you can sell:\n X1",
+  "stage_3_end": "Great, so you now have X1 $", // X1 = money
+
+  /// End game
+  "game_end": "You finished the game with X1 $", // X1 = money
+
+  // Leaderboard
+  "leaderboard_title": "Leaderboard",
+  "leaderboard_player": "Player",
+  "leaderboard_score": "Score",
+  "leaderboard_place": "Place",
+
+  "": "" // empty in purpose
+
+}
